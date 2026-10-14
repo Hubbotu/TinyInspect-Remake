@@ -5,7 +5,6 @@
 ## Notes: Show ItemLevel For Inspect & Party & Raid & Mouse & Bag & Bank ...
 ## Notes-zhCN: 装等观察,装等显示
 ## Notes-zhTW: 裝等觀察,裝等顯示
-## Notes-ruRU: Показывает уровень предметов при осмотре, в группе, рейде, сумках, банке и подсказках мыши.
 ## Author: 星野绫-罗宁 CN
 ## SavedVariables: TinyInspectRemakeDB
 ## SavedVariablesPerCharacter: TinyInspectRemakeCharacterDB
